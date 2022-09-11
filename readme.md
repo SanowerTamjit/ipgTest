@@ -18,5 +18,5 @@
 4. The CSV will be generated in the root dir(./)
 5. And for the Unit Test please run ```mvn test``` <br> After running the command the expected output : <br><img src="./images/img1.png"/>
    <br><br>
-*Make sure that all commands(2-4) running from the root directory
+*Make sure that all commands(2,3,5) running from the root directory
 ***
